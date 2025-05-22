@@ -15,5 +15,8 @@
     "url": "https://github.com/Dimassz/blog/issues"
   },
   "homepage": "https://github.com/Dimassz/blog#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
